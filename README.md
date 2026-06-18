@@ -20,6 +20,23 @@
   
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+<div align="center">
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=italosantosxz&theme=tokyo-night&hide_border=true"/>
+
+
 
 </div>
+
+
+
+---
+
+
+###
+<img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
+
+###
