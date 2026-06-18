@@ -25,7 +25,7 @@
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=italosantosxz&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolasvendrame&theme=tokyo-night&hide_border=true"/>
 
 
 
